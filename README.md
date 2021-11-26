@@ -59,6 +59,6 @@
   <a href="" target="_blank"><img src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/Other/arduino.svg" width = "40" height = "40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NnA301023&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="NnA301023" height = "500" width = "400" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NnA301023&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="NnA301023" width = "400" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NnA301023&show_icons=true&locale=en&theme=tokyonight" alt="NnA301023" height = "500" width = "400"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NnA301023&show_icons=true&locale=en&theme=tokyonight" alt="NnA301023" width = "400"/></p>
