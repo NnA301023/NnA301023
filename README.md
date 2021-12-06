@@ -1,4 +1,4 @@
-<h1 align="center">Halo 👋, Saya NnA</h1>
+<h1 align="center">Halo 👋, Saya Alif</h1>
 <h3 align="center">Seorang Machine Learning Enthusiast !</h3>
 <p align="center">
   Pada 2 tahun terakhir saya fokus mengembangkan minat di bidang kecerdasan buatan dan pengimplementasian model kecerdasan buatan berbasis Raspberry Pi, Website, dan API.
