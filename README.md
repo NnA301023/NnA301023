@@ -1,7 +1,7 @@
 <h1 align="center">Halo 👋, Saya Alif</h1>
-<h3 align="center">Seorang Machine Learning Enthusiast !</h3>
+<h3 align="center">Seorang Full Stack Data Science Enthusiast !</h3>
 <p align="center">
-  Pada 2 tahun terakhir saya fokus mengembangkan minat di bidang kecerdasan buatan dan pengimplementasian model kecerdasan buatan berbasis Raspberry Pi, Website, dan API.
+  Pada 3 tahun terakhir saya fokus mengembangkan minat di bidang kecerdasan buatan dan pengimplementasian model kecerdasan buatan berbasis Raspberry Pi, Website, dan API.
 </p>
 <!-- icon gif -->
 <p align="center">
