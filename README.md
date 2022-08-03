@@ -1,7 +1,7 @@
 <h1 align="center">Halo 👋, Saya Alif</h1>
-<h3 align="center">Seorang Full Stack Data Science Enthusiast !</h3>
+<h3 align="center">A Full Stack Data Science Enthusiast !</h3>
 <p align="center">
-  Pada 3 tahun terakhir saya fokus mengembangkan minat di bidang kecerdasan buatan dan pengimplementasian model kecerdasan buatan berbasis Raspberry Pi, Website, dan API.
+  In the last 3 years, I have focused on developing my interest and career in data field. Starting from the data environment to the deployment model both edge and dedicated server.
 </p>
 <!-- icon gif -->
 <p align="center">
@@ -13,7 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NnA301023&label=Profile%20views&color=0e75b6&style=flat" alt="NnA301023" /> </p>
 
 
-- 🌱 Saya sekarang fokus pada **Machine Learning dan Virtual Reality**
+- 🌱 Saya sekarang fokus pada **Data Environment Field (DE, DS, DA, dan ML)**
 
 - 💬 Tanya saya tentang **apapun itu** !
 
