@@ -4,7 +4,7 @@
   In the last 3 years, I have focused on developing my interest and career in data field. Starting from the data environment to the deployment model both edge and dedicated server.
 </p>
 <!-- icon gif -->
-<p float="left">
+<p align = "center">
   <img align="tcenter" src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif" width="400" />
   <img align="tcenter" src="https://media-exp1.licdn.com/dms/image/C4D22AQEZ1vAfgkBObA/feedshare-shrink_1280/0/1665170485222?e=1668643200&v=beta&t=x1sAL4aBSpHN7mJR-MPVRXWTNSODHrGbTlJX6Vn2CoE" width="400"/>
 </p>
