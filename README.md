@@ -6,6 +6,7 @@
 <!-- icon gif -->
 <p align="center">
   <img align="tcenter" src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif" width="500" />
+  <img align="tcenter" src="https://media-exp1.licdn.com/dms/image/C4D22AQEZ1vAfgkBObA/feedshare-shrink_1280/0/1665170485222?e=1668643200&v=beta&t=x1sAL4aBSpHN7mJR-MPVRXWTNSODHrGbTlJX6Vn2CoE" width="500" />
 </p>
 
 
