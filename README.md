@@ -5,7 +5,7 @@
 </p>
 <!-- icon gif -->
 <p align = "center">
-  <img align="tcenter" src="https://editor.analyticsvidhya.com/uploads/17847clicdata.gif" width="400" height = "300"/>
+  <img align="tcenter" src="https://media.licdn.com/dms/image/C4D22AQHM9Wkojb_3Lg/feedshare-shrink_1280/0/1671988810907?e=1675296000&v=beta&t=nHAJ4f1GH4fh6rdCzGPPxVyu9yACeAjgq-epE-Nu23Q" width="400" height = "300"/>
   <img align="tcenter" src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif" width="400" />
 </p>
 
