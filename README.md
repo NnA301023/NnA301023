@@ -5,7 +5,7 @@
 </p>
 <!-- icon gif -->
 <p align = "center">
-  <img align="tcenter" src="[https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4e88c7bd-5ccb-48d9-8b53-b4f91e2676d3_749x472.gif](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4e88c7bd-5ccb-48d9-8b53-b4f91e2676d3_749x472.gif)" width="400" height = "300"/>
+  <img align="tcenter" src="https://miro.medium.com/max/1400/1*j-3mDrCAoFkWz5wGGlevSQ.gif" width="400" height = "300"/>
   <img align="tcenter" src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif" width="400" />
 </p>
 
