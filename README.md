@@ -9,6 +9,10 @@
   <img align="tcenter" src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif" width="400" />
 </p>
 
+<!-- icon gif by salluthdev -->
+<p align = "center">
+  <img align = "center" src = "https://github.com/NnA301023/NnA301023/assets/68107917/2e26ee1c-aba1-4328-ac6d-7eea60bf783c">
+</p>
 
 <!-- visitor -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NnA301023&label=Profile%20views&color=0e75b6&style=flat" alt="NnA301023" /> </p>
