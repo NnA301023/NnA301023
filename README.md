@@ -1,8 +1,8 @@
-<h1 align="center">Halo 👋, Saya Alif</h1>
-<h3 align="center">A Full Stack Data Science Enthusiast !</h3>
-<p align="center">
-  In the last 3 years, I have focused on developing my interest and career in data field. Starting from the data environment to the deployment model both edge and dedicated server.
-</p>
+<!-- short intro -->
+<h1 align="center">Halo 👋, Im Alif</h1>
+<h3 align="center">Full Stack Machine learning Engineer!</h3>
+<p align="center">In the last 3 years, I've focused on developing my interest and career in the data and machine learning field 😄</p>
+
 <!-- icon gif -->
 <p align = "center">
   <img align="tcenter" src="https://miro.medium.com/max/1400/1*j-3mDrCAoFkWz5wGGlevSQ.gif" width="400" height = "300"/>
@@ -10,60 +10,36 @@
 </p>
 
 <!-- icon gif by salluthdev -->
-<p align = "center">
-  <img align = "center" src = "https://github.com/NnA301023/NnA301023/assets/68107917/2e26ee1c-aba1-4328-ac6d-7eea60bf783c">
-</p>
+<p align = "center"><img align = "center" src = "https://github.com/NnA301023/NnA301023/assets/68107917/2e26ee1c-aba1-4328-ac6d-7eea60bf783c"></p>
 
 <!-- visitor -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NnA301023&label=Profile%20views&color=0e75b6&style=flat" alt="NnA301023" /> </p>
 
+<!-- information profile based on experiences -->
+- 🕵🏻 Interest on research and end-to-end machine learning project.
+- ✉️: [alif.datascientist@gmail.com](alif.datascientist@gmail.com)
+- more details about my journey in the machine learning field could you read [here](https://www.dicoding.com/blog/belajar-di-idcamp-untuk-mengasah-skill-machine-learning/)
 
-- 🌱 Saya sekarang fokus pada **Data Environment Field (DE, DS, DA, dan ML)**
+<!-- scope enthusiast / professional domain -->
+## Skill Set 💼
 
-- 💬 Tanya saya tentang **apapun itu** !
+### Data Engineer 🛠️
+**Tools**: SQL, Linux, Git, Airflow, Talend, DE Stack on GCP (DataPrep, DataFlow, BigQuery, Looker), Data Stack on AWS (EC2, S3).
 
-- 📫 Hubungi saya di **alifr5454@gmail.com**
+### Data Analyst 📊
+**Tools**: SQL, Python, Metabase, Looker.
 
-<h3 align="left">Reach Me :</h3>
-<p align="left">
-<!-- Linkedin -->
-<a href="https://www.linkedin.com/in/muhammad-alif-ramadhan-ba27b61b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<!-- Facebook -->
-<a href="https://www.facebook.com/muhammadalif.ramadhan.37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-<!-- Kaggle -->
-<a href="https://www.kaggle.com/aliframadhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a>
-<!-- Medium -->
-<a href="https://medium.com/@alifr5454" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
-  
+### Data Scientist 🧬
+**Tools**: Jupyter Notebook, Scikit-Learn, OpenCV, NLTK, Ultralytics (YOLO), Tensorflow, Pytorch, Transformers, Streamlit, Langchain.
 
-<h3 align="left">Tools, Languages, and Frameworks :</h3>
-<p align="center"> 
-  <!--  Jupyter  -->
-  <a href="" target="_blank"><img src = "https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width = "40" height = "40"/> </a>
-  <!--  R Studio  -->
-  <a href="" target="_blank"><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS42ZHF9Bj3ww4bQeNk8bevjkXsFH2a6Rk4Sw&usqp=CAU" width = "80" height = "40"/> </a>
-  <!--  Pycharm  -->
-  <a href="" target="_blank"><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv675Bs6TnOZW4b2IcHuWl7_syLMsTK0AIZ7ESnqDEuSuf2Xj9b6bDpnwt3WcbiLluZqw&usqp=CAU" width = "40" height = "40"/> </a>
-  <!--  Python  -->
-  <a href="" target="_blank"><img src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/ProgrammingLanguages/python.svg" width = "40" height = "40"/> </a>
-  <!--  R  -->
-  <a href="" target="_blank"><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWkx43HeDnl5mW6FzG4lSo4E44AkUfaxsAtA&usqp=CAU" width = "40" height = "40"/> </a>
-  <!--  openCV  -->
-  <a href="" target="_blank"><img src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/AIML/opencv.svg" width = "40" height = "40"/> </a>
-  <!--  Scikit Learn  -->
-  <a href="" target="_blank"><img src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/AIML/scikit.svg" width = "40" height = "40"/> </a>
-  <!--  Tensorflow  -->
-  <a href="" target="_blank"><img src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/AIML/tensorflow.svg" width = "40" height = "40"/> </a>
-  <!--  Pytorch  -->
-  <a href="" target="_blank"><img src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/AIML/pytorch.svg" width = "40" height = "40"/> </a>
-  <!--  Flask  -->
-  <a href="" target="_blank"><img src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/Framework/flask.svg" width = "40" height = "40"/> </a>
-  <!--  Streamlit  -->
-  <a href="" target="_blank"><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1aFIslJRr61KrbXLvtgQkpUEUGlEJbQjU6g&usqp=CAU" width = "40" height = "40"/> </a>
-  <!--  Arduino  -->
-  <a href="" target="_blank"><img src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/Other/arduino.svg" width = "40" height = "40"/> </a>
-</p>
+### Machine Learning Engineer 🤖
+**Tools**: Git, FastAPI, Docker, Linux, BentoML, ML-Flow, Model Arts (Huawei Cloud).
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NnA301023&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="NnA301023" width = "400" /></p>
+## Industry Domain Experienced
+AI Consultant, Healthcare, Big Data, Media Monitoring, FnB, Banking, and Cyber Security. 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NnA301023&show_icons=true&locale=en&theme=tokyonight" alt="NnA301023" width = "400"/></p>
+**(each domain has their unique topic on AI with simple / complex solution proposed)**
+
+<!-- github stats -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NnA301023&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="NnA301023" width = "400" height = "400"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NnA301023&show_icons=true&locale=en&theme=tokyonight" alt="NnA301023" width = "400" height = "400"/></p>
