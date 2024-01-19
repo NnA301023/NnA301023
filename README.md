@@ -20,26 +20,7 @@
 - ✉️: [alif.datascientist@gmail.com](alif.datascientist@gmail.com)
 - more details about my journey in the machine learning field could you read [here](https://www.dicoding.com/blog/belajar-di-idcamp-untuk-mengasah-skill-machine-learning/)
 
-<!-- scope enthusiast / professional domain -->
-## Skill Set 💼
-
-### Data Engineer 🛠️
-**Tools**: SQL, Linux, Git, Airflow, Talend, DE Stack on GCP (DataPrep, DataFlow, BigQuery, Looker), Data Stack on AWS (EC2, S3).
-
-### Data Analyst 📊
-**Tools**: SQL, Python, Metabase, Looker.
-
-### Data Scientist 🧬
-**Tools**: Jupyter Notebook, Scikit-Learn, OpenCV, NLTK, Ultralytics (YOLO), Tensorflow, Pytorch, Transformers, Streamlit, Langchain.
-
-### Machine Learning Engineer 🤖
-**Tools**: Git, FastAPI, Docker, Linux, BentoML, ML-Flow, Model Arts (Huawei Cloud).
-
 ## Industry Domain Experienced
 AI Consultant, Healthcare, Big Data, Media Monitoring, FnB, Banking, and Cyber Security. 
 
 **(each domain has their unique topic on AI with simple / complex solution proposed)**
-
-<!-- github stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NnA301023&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="NnA301023" width = "400" height = "400"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NnA301023&show_icons=true&locale=en&theme=tokyonight" alt="NnA301023" width = "400" height = "400"/></p>
