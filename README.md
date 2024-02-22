@@ -1,7 +1,7 @@
 <!-- short intro -->
 <h1 align="center">Halo 👋, Im Alif</h1>
 <h3 align="center">Full Stack Machine learning Engineer!</h3>
-<p align="center">In the last 3 years, I've focused on developing my interest and career in the data and machine learning field 😄</p>
+<p align="center">In the last 4 years, I've focused on developing my interest and career in the data and machine learning field 😄</p>
 
 <!-- icon gif -->
 <p align = "center">
